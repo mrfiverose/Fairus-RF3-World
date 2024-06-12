@@ -139,7 +139,7 @@
 </section>
 
 <footer>
-    <p>&copy; 2024 [Your Name]. All rights reserved.</p>
+    <p>&copy; 2024 [Muhammad Fairus Bin Hashim]. All rights reserved.</p>
     <div class="social-media">
         <a href="#">Facebook</a>
         <a href="#">Twitter</a>
