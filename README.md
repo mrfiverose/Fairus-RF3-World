@@ -81,7 +81,7 @@
 <body>
 
 <header>
-    <h1>Welcome to My Personal Page</h1>
+    <h1>Welcome to our page</h1>
     <nav>
         <ul>
             <li><a href="#home">Home</a></li>
@@ -96,14 +96,14 @@
 <section id="home">
     <div class="content">
         <h2>Introduction</h2>
-        <p>Welcome to my personal page where I share insights and resources on health, finance, money, mindset, and emotions. Dive in to explore more and improve your life in these essential areas.</p>
+        <p>Welcome to our personal page where we share insights and resources on health, finance, money, mindset, and emotions. Dive in to explore more and improve your life in these essential areas.</p>
     </div>
 </section>
 
 <section id="about">
     <div class="content">
-        <h2>About Me</h2>
-        <p>Hi, I'm [Your Name], passionate about helping people achieve a balanced and fulfilling life. With a background in [your background], I provide valuable insights and practical tips on managing your health, finances, mindset, and emotions.</p>
+        <h2>About Us</h2>
+        <p>Hi, We Royalty Vitality, are made of many individuals passionate about helping people achieve a balanced and fulfilling life. With a background, we provide valuable insights and practical tips on managing your health, finances, mindset, and emotions.</p>
     </div>
 </section>
 
@@ -131,8 +131,8 @@
             <input type="text" id="name" name="name" required>
             <label for="email">Email</label>
             <input type="email" id="email" name="email" required>
-            <label for="hp">HP</label>
-            <input type="hp" id="hp" name="hp" required>
+            <label for="whatsapp">WhatsApp</label>
+            <input type="whatsapp" id="whatsapp" name="whatsapp" required>
             <label for="message">Message</label>
             <textarea id="message" name="message" rows="4" required></textarea>
             <button type="submit">Send</button>
@@ -141,7 +141,7 @@
 </section>
 
 <footer>
-    <p>&copy; 2024 Muhammad Fairus Bin Hashim. All rights reserved.</p>
+    <p>&copy; 2024 Royalty Vitality. All rights reserved.</p>
     <div class="social-media">
         <a href="#">Facebook</a>
         <a href="#">Twitter</a>
