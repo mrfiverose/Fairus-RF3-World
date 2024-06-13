@@ -112,10 +112,10 @@
 </section>
 
 <section id="about">
-    <div class="content">
+    <div class="content" style="text-align: center;">
         <h2>About Me</h2>
         <p>Hi, I'm [Your Name], passionate about helping people achieve a balanced and fulfilling life. With a background in [your background], I provide valuable insights and practical tips on managing your health, finances, mindset, and emotions.</p>
-        <iframe width="700" height="450" src="https://www.youtube.com/embed/Hy6j9o8FYb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="800" height="450" src="https://www.youtube.com/embed/Hy6j9o8FYb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </section>
 
