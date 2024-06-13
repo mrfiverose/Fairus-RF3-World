@@ -1,3 +1,4 @@
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -53,8 +54,9 @@
             position: fixed;
             bottom: 0;
             width: 100%;
-            left: 0; /* Ensure footer stretches from left edge */
-            right: 0; /* Ensure footer stretches to right edge */
+            left: 0;
+            right: 0;
+            z-index: 1; /* Ensure footer is above background image */
         }
         .social-media {
             margin-top: 1em;
