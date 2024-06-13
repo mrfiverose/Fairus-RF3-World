@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -47,11 +46,9 @@
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        .content-centered {
+        .video-wrapper {
             display: flex;
-            flex-direction: column;
-            align-items: center;
-            text-align: center;
+            justify-content: center;
         }
         footer {
             background-color: #333;
@@ -118,10 +115,12 @@
 </section>
 
 <section id="about">
-    <div class="content content-centered">
+    <div class="content">
         <h2>About Me</h2>
         <p>Hi, I'm [Your Name], passionate about helping people achieve a balanced and fulfilling life. With a background in [your background], I provide valuable insights and practical tips on managing your health, finances, mindset, and emotions.</p>
-        <iframe width="800" height="450" src="https://www.youtube.com/embed/Hy6j9o8FYb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="video-wrapper">
+            <iframe width="800" height="450" src="https://www.youtube.com/embed/Hy6j9o8FYb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
     </div>
 </section>
 
@@ -149,7 +148,7 @@
             <input type="text" id="name" name="name" required>
             <label for="email">Email</label>
             <input type="email" id="email" name="email" required>
-            <label for="whatsApp">WhatsApp</label>
+             <label for="whatsApp">WhatsApp</label>
             <input type="text" id="whatsApp" name="whatsApp" required>
             <label for="message">Message</label>
             <textarea id="message" name="message" rows="4" required></textarea>
