@@ -10,7 +10,7 @@
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
-            background-image: url('https://picsum.photos/seed/paul/1600/900');
+            background-image: url('https://picsum.photos/seed/picsum/1600/900');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
