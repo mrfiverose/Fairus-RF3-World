@@ -110,7 +110,7 @@
 <section id="home">
     <div class="content">
         <h2>Introduction</h2>
-        <p>Welcome to my personal page where I share insights and resources on health, finance, money, mindset, and emotions. Dive in to explore more and improve your life in these essential areas.</p>
+        <p>Many perceive conquering a mountain as daunting, yet the real feat lies in embracing our weaknesses and courageously taking the necessary actions.</p>
     </div>
 </section>
 
