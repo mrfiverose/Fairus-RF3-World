@@ -139,8 +139,8 @@
             <input type="text" id="name" name="name" required>
             <label for="email">Email</label>
             <input type="email" id="email" name="email" required>
-             <label for="WhatsApp">WhatsApp</label>
-            <input type="WhatsApp" id="WhatsApp" name="WhatsApp" required>
+             <label for="whatsApp">WhatsApp</label>
+            <input type="whatsApp" id="whatsApp" name="whatsApp" required>
             <label for="message">Message</label>
             <textarea id="message" name="message" rows="4" required></textarea>
             <button type="submit">Send</button>
