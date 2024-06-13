@@ -14,7 +14,6 @@
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
-            background-attachment: fixed;
         }
         header {
             background-color: rgba(76, 175, 80, 0.8); /* Semi-transparent green */
