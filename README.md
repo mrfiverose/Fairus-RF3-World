@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,7 +10,7 @@
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
-            background-image: url('https://www.vecteezy.com/photo/38461396-ai-generated-a-peaceful-sunrise-over-a-calm-sea-representing-the-dawn-of-labor-day-and-new-beginnings');
+            background-image: url('https://source.unsplash.com/1600x900/?nature,landscape');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
@@ -89,9 +89,7 @@
 <body>
 
 <header>
-    <div style="background-image: linear-gradient(to bottom, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1526318933133-ef073b92c6f1'); background-size: cover; background-position: center; height: 400px;">
-        <h1 style="padding-top: 150px; margin-bottom: 0;">Welcome to My Personal Page</h1>
-    </div>
+    <h1>Welcome to My Personal Page</h1>
     <nav>
         <ul>
             <li><a href="#home">Home</a></li>
@@ -141,8 +139,6 @@
             <input type="text" id="name" name="name" required>
             <label for="email">Email</label>
             <input type="email" id="email" name="email" required>
-            <label for="WhatsApp">WhatsApp</label>
-            <input type="WhatsApp" id="WhatsApp" name="WhatsApp" required>
             <label for="message">Message</label>
             <textarea id="message" name="message" rows="4" required></textarea>
             <button type="submit">Send</button>
