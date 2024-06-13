@@ -10,7 +10,7 @@
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
-            background-image: url('https://source.unsplash.com/1600x900/?nature,landscape');
+            background-image: url('https://picsum.photos/id/1044/1600/900');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
