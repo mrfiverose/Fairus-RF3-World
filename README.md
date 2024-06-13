@@ -10,7 +10,7 @@
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
-            background-image: url('https://images.unsplash.com/photo-1526318933133-ef073b92c6f1');
+            background-image: url('https://www.vecteezy.com/photo/38461396-ai-generated-a-peaceful-sunrise-over-a-calm-sea-representing-the-dawn-of-labor-day-and-new-beginnings');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
