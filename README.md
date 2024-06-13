@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -126,7 +126,7 @@
 <section id="contact">
     <div class="content">
         <h2>Contact Me</h2>
-        <form class="contact-form">
+        <form action="https://formspree.io/f/xvoeeqzv" method="POST" class="contact-form">
             <label for="name">Name</label>
             <input type="text" id="name" name="name" required>
             <label for="email">Email</label>
@@ -139,7 +139,7 @@
 </section>
 
 <footer>
-    <p>&copy; 2024 [Muhammad Fairus Bin Hashim]. All rights reserved.</p>
+    <p>&copy; 2024 Muhammad Fairus Bin Hashim. All rights reserved.</p>
     <div class="social-media">
         <a href="#">Facebook</a>
         <a href="#">Twitter</a>
