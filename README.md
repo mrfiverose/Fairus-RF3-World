@@ -111,8 +111,7 @@
     <div class="content">
         <h2>Introduction</h2>
         <p> - Many perceive conquering a mountain as daunting, yet the real feat lies in embracing our weaknesses and courageously taking the necessary actions.
-        <p> - Banyak yang menganggap menakluki sebuah gunung sangat menakutkan, namun yang lebih mencabar ialah menerima kelemahan kita dan mengambil tindakan yang diperlukan dengan berani.
-            </p>
+        <p> - Banyak yang menganggap menakluki sebuah gunung sangat menakutkan, namun yang lebih mencabar ialah menerima kelemahan kita dan mengambil tindakan yang diperlukan dengan berani. </p>
     </div>
 </section>
 
