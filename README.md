@@ -95,7 +95,7 @@
 <body>
 
 <header>
-    <h1>Welcome to My Personal Page</h1>
+    <h1>Welcome to Royalty Vitality</h1>
     <nav>
         <ul>
             <li><a href="#home">Home</a></li>
