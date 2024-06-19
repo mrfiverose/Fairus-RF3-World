@@ -99,7 +99,7 @@
     <nav>
         <ul>
             <li><a href="#home">Home</a></li>
-            <li><a href="#about">About Me</a></li>
+            <li><a href="#about">About Us</a></li>
             <li><a href="#blog">Blog</a></li>
             <li><a href="#resources">Resources</a></li>
             <li><a href="#contact">Contact</a></li>
