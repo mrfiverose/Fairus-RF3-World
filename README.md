@@ -100,7 +100,7 @@
         <ul>
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About Us</a></li>
-            <li><a href="#blog">Blog</a></li>
+            <li><a href="#blog">Services</a></li>
             <li><a href="#resources">Resources</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
@@ -126,10 +126,13 @@
     </div>
 </section>
 
-<section id="blog">
+<section id="services">
     <div class="content">
-        <h2>Blog</h2>
-        <p>Explore my latest posts on health, finance, money, mindset, and emotions.</p>
+        <h2>Services</h2>
+        <p>Health Support Programs: Tailored plans to enhance physical and mental well-being.
+Financial Guidance: Expert advice to manage and improve your financial health.
+Life Coaching: Personalized coaching to help you navigate life's challenges.
+Community Support: A network of like-minded individuals offering mutual support and encouragement.</p>
         <!-- Blog posts will go here -->
     </div>
 </section>
