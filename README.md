@@ -117,8 +117,9 @@
 
 <section id="about">
     <div class="content">
-        <h2>About Me</h2>
-        <p>Hi, I'm [Your Name], passionate about helping people achieve a balanced and fulfilling life. With a background in [your background], I provide valuable insights and practical tips on managing your health, finances, mindset, and emotions.</p>
+        <h2>About Us</h2>
+        <p> - Many times, we feel helpless due to health issues, financial commitments, unforeseen circumstances, and the unpredictability of life. Royalty Vitality was formed to provide opportunities for self-improvement and empowerment when life happens. Our mission is to support individuals in navigating these challenges and to help them achieve a sense of stability and vitality.</p>
+        <p> - Sering kali, kita merasa tidak berdaya disebabkan masalah kesihatan, komitmen kewangan, keadaan yang tidak dijangka, dan ketidakpastian hidup. Royalty Vitality ditubuhkan untuk menyediakan peluang bagi peningkatan diri dan pemberdayaan apabila hidup berubah. Misi kami adalah untuk menyokong individu dalam mengatasi cabaran ini dan membantu mereka mencapai kestabilan dan vitaliti.</p>
         <div class="video-wrapper">
             <iframe width="800" height="450" src="https://www.youtube.com/embed/Hy6j9o8FYb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
