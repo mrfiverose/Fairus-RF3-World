@@ -155,15 +155,13 @@
 
 <section id="contact">
     <div class="content">
-        <h2>    We'd love to hear from you!
-             <p>Whether you have questions, need more information, or are ready to join, reach out to us</p>
-        </h2>
+        <h2>Whether you have questions, need more information, or are ready to join, reach out to us. We'd love to hear from you!</h2>
         <form action="https://formspree.io/f/xvoeeqzv" method="POST" class="contact-form">
             <label for="name">Name</label>
             <input type="text" id="name" name="name" required>
             <label for="email">Email</label>
             <input type="email" id="email" name="email" required>
-             <label for="whatsApp">WhatsApp</label>
+             <label for="whatsApp">WhatsApp ( Do include your country code, eg: +65 1234 5678 )</label>
             <input type="text" id="whatsApp" name="whatsApp" required>
             <label for="message">Message</label>
             <textarea id="message" name="message" rows="4" required></textarea>
