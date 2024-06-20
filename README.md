@@ -158,7 +158,6 @@
                 allowfullscreen="" 
                 loading="lazy">
             </iframe>
-               <p>Our HP: +65 8774 1661.</p>
         </div>
          <p>Our HP: +65 8774 1661.</p>
         <!-- Resource links will go here -->
