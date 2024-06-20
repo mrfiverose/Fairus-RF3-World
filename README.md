@@ -155,7 +155,9 @@
 
 <section id="contact">
     <div class="content">
-        <h2>Contact Me</h2>
+        <h2>    We'd love to hear from you!
+             <p>Whether you have questions, need more information, or are ready to join, reach out to us</p>
+        </h2>
         <form action="https://formspree.io/f/xvoeeqzv" method="POST" class="contact-form">
             <label for="name">Name</label>
             <input type="text" id="name" name="name" required>
@@ -171,7 +173,7 @@
 </section>
 
 <footer>
-    <p>&copy; 2024 Muhammad Fairus Bin Hashim. All rights reserved.</p>
+    <p>&copy; 2024 Royalty Vitality. All rights reserved.</p>
     <div class="social-media">
         <a href="#">Facebook</a>
         <a href="#">Twitter</a>
