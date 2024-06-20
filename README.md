@@ -50,6 +50,10 @@
             display: flex;
             justify-content: center;
         }
+        .map-wrapper {
+            display: flex;
+            justify-content: center; /* Center the map horizontally */
+        }
         footer {
             background-color: #333;
             color: white;
@@ -130,17 +134,14 @@
     <div class="content">
         <h2>Services</h2>
         <p>Health Support Programs: Tailored plans to enhance physical and mental well-being.</p>
-<p>Financial Guidance: Expert advice to manage and improve your financial health.</p>
-<p>Life Coaching: Personalized coaching to help you navigate life's challenges.</p>
-<p>Community Support: A network of like-minded individuals offering mutual support and encouragement.</p>
-<p>  </p>
-       <p> - Program Sokongan Kesihatan: Pelan khusus untuk meningkatkan kesejahteraan fizikal dan mental.</p>
-
-<p> - Panduan Kewangan: Nasihat pakar untuk mengurus dan memperbaiki kesihatan kewangan anda.</p>
-
-<p> - Bimbingan Hidup: Bimbingan peribadi untuk membantu anda mengharungi cabaran hidup.</p>
-
-<p> - Sokongan Komuniti: Rangkaian individu yang berpikiran sama menawarkan sokongan dan dorongan bersama.</p>
+        <p>Financial Guidance: Expert advice to manage and improve your financial health.</p>
+        <p>Life Coaching: Personalized coaching to help you navigate life's challenges.</p>
+        <p>Community Support: A network of like-minded individuals offering mutual support and encouragement.</p>
+        <p>  </p>
+        <p> - Program Sokongan Kesihatan: Pelan khusus untuk meningkatkan kesejahteraan fizikal dan mental.</p>
+        <p> - Panduan Kewangan: Nasihat pakar untuk mengurus dan memperbaiki kesihatan kewangan anda.</p>
+        <p> - Bimbingan Hidup: Bimbingan peribadi untuk membantu anda mengharungi cabaran hidup.</p>
+        <p> - Sokongan Komuniti: Rangkaian individu yang berpikiran sama menawarkan sokongan dan dorongan bersama.</p>
         <!-- Blog posts will go here -->
     </div>
 </section>
@@ -148,12 +149,11 @@
 <section id="resources">
     <div class="content">
         <h2>Find Us</h2>
-           <div class="map-wrapper">
-           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.5665570290416!2d103.80240337412135!3d1.4352697612970964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da13004b2d554b%3A0x78829c3624d9246d!2sPrimz%20BizHub!5e0!3m2!1sen!2ssg!4v1718863480362!5m2!1sen!2ssg" 
-               width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-               </iframe>
+        <div class="map-wrapper">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.5665570290416!2d103.80240337412135!3d1.4352697612970964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da13004b2d554b%3A0x78829c3624d9246d!2sPrimz%20BizHub!5e0!3m2!1sen!2ssg!4v1718863480362!5m2!1sen!2ssg" 
+                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
-         <p>Our HP: +65 8774 1661.</p>
+        <p>Our HP: +65 8774 1661.</p>
         <!-- Resource links will go here -->
     </div>
 </section>
@@ -166,7 +166,7 @@
             <input type="text" id="name" name="name" required>
             <label for="email">Email</label>
             <input type="email" id="email" name="email" required>
-             <label for="whatsApp">WhatsApp ( Do include your country code, eg: +65 1234 5678 )</label>
+            <label for="whatsApp">WhatsApp ( Do include your country code, eg: +65 1234 5678 )</label>
             <input type="text" id="whatsApp" name="whatsApp" required>
             <label for="message">Message</label>
             <textarea id="message" name="message" rows="4" required></textarea>
@@ -183,6 +183,5 @@
         <a href="#">LinkedIn</a>
     </div>
 </footer>
-
 </body>
 </html>
