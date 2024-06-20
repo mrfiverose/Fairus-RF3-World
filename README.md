@@ -98,11 +98,11 @@
     <h1>Welcome to Royalty Vitality</h1>
     <nav>
         <ul>
-            <li><a href="#home">Home</a></li>
+            <li><a href="#home">Introduction</a></li>
             <li><a href="#about">About Us</a></li>
-            <li><a href="#blog">Services</a></li>
-            <li><a href="#resources">Resources</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="#blog">Our Services</a></li>
+            <li><a href="#resources">Find us</a></li>
+            <li><a href="#contact">Contact Us</a></li>
         </ul>
     </nav>
 </header>
@@ -147,7 +147,7 @@
 
 <section id="resources">
     <div class="content">
-        <h2>Resources</h2>
+        <h2>Find Us</h2>
         <p>Check out these recommended books, articles, tools, and resources to help you on your journey.</p>
         <!-- Resource links will go here -->
     </div>
