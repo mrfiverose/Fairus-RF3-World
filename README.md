@@ -115,7 +115,6 @@
     <div class="content">
         <h2>Introduction</h2>
         <p>Many perceive conquering a mountain as daunting, yet the real feat lies in embracing our weaknesses and courageously taking the necessary actions. </p>
-        <p> - Banyak yang menganggap menakluki sebuah gunung sangat menakutkan, namun yang lebih mencabar ialah menerima kelemahan kita dan mengambil tindakan yang diperlukan dengan berani. </p>
     </div>
 </section>
 
@@ -123,7 +122,6 @@
     <div class="content">
         <h2>About Us</h2>
         <p>Many times, we feel helpless due to health issues, financial commitments, unforeseen circumstances, and the unpredictability of life. Royalty Vitality was formed to provide opportunities for self-improvement and empowerment when life happens. Our mission is to support individuals in navigating these challenges and to help them achieve a sense of stability and vitality.</p>
-        <p> - Sering kali, kita merasa tidak berdaya disebabkan masalah kesihatan, komitmen kewangan, keadaan yang tidak dijangka, dan ketidakpastian hidup. Royalty Vitality ditubuhkan untuk menyediakan peluang bagi peningkatan diri dan pemberdayaan apabila hidup berubah. Misi kami adalah untuk menyokong individu dalam mengatasi cabaran ini dan membantu mereka mencapai kestabilan dan vitaliti.</p>
         <div class="video-wrapper">
             <iframe width="800" height="450" src="https://www.youtube.com/embed/Hy6j9o8FYb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
@@ -137,11 +135,6 @@
         <p>Financial Guidance: Expert advice to manage and improve your financial health.</p>
         <p>Life Coaching: Personalized coaching to help you navigate life's challenges.</p>
         <p>Community Support: A network of like-minded individuals offering mutual support and encouragement.</p>
-        <p>  </p>
-        <p> - Program Sokongan Kesihatan: Pelan khusus untuk meningkatkan kesejahteraan fizikal dan mental.</p>
-        <p> - Panduan Kewangan: Nasihat pakar untuk mengurus dan memperbaiki kesihatan kewangan anda.</p>
-        <p> - Bimbingan Hidup: Bimbingan peribadi untuk membantu anda mengharungi cabaran hidup.</p>
-        <p> - Sokongan Komuniti: Rangkaian individu yang berpikiran sama menawarkan sokongan dan dorongan bersama.</p>
         <!-- Blog posts will go here -->
     </div>
 </section>
