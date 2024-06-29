@@ -99,7 +99,7 @@
 <body>
 
 <header>
-    <h1>Welcome to Royalty Vitality</h1>
+    <h1>Welcome to RF3World (Singapore)</h1>
     <nav>
         <ul>
             <li><a href="#home">Introduction</a></li>
